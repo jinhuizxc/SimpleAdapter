@@ -1,0 +1,7 @@
+#Sat Nov 18 17:23:29 CST 2017
+base.0=C\:\\Users\\jinhui\\Desktop\\SimpeleAdapter1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2bc9c464b60ea2367ff557a638902896b4cb9f07
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\jinhui\\Desktop\\SimpeleAdapter1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_019ba92ef71c16c71cb1c408fd5cb93e6b3f22cb\\classes.dex
+base.1=C\:\\Users\\jinhui\\Desktop\\SimpeleAdapter1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_019ba92ef71c16c71cb1c408fd5cb93e6b3f22cb
+file.0=C\:\\Users\\jinhui\\Desktop\\SimpeleAdapter1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2bc9c464b60ea2367ff557a638902896b4cb9f07\\classes.dex
